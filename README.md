@@ -10,7 +10,7 @@ The application stack is hosted using **Nginx**, and all new EC2 instances are l
 ---
 
 ## Problem Statement
-In traditional server-based systems, sudden traffic spikes can cause performance degradation or downtime due to fixed infrastructure capacity. Manual scaling is slow, error-prone, and inefficient.
+In the traditional server-based systems, sudden traffic spikes can cause performance degradation or downtime due to fixed infrastructure capacity. Manual scaling is slow, error-prone, and inefficient.
 
 This project solves the problem by:
 - Automatically detecting high CPU usage

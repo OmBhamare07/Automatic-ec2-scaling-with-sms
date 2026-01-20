@@ -76,7 +76,7 @@ This project solves the problem by:
 ## Step-by-Step Implementation
 
 ### Step 1: EC2 Setup and Web Server Configuration
-- Launch EC2 using Amazon Linux
+- Launching a EC2 using Amazon Linux
 - Install and configure Nginx
 - Verify application accessibility using public IP
 
@@ -101,7 +101,7 @@ This project solves the problem by:
 ---
 
 ### Step 4: Create Auto Scaling Group
-- Attach Launch Template
+- Attach the Launch Template
 - Configure:
   - Minimum capacity: 1
   - Desired capacity: 1
